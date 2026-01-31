@@ -138,10 +138,6 @@ This dataset contains 64,000 customers from a randomized email marketing experim
 
 ---
 
-## License
-
-
-
 ## References
 
 - Hillstrom, K. (2008). *Kevin Hillstrom: MineThatData.* MineThatData. https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html.
