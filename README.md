@@ -77,12 +77,12 @@ pip install -r requirements.txt
 
 Or install manually:
 ```
-pandas       => 2.3.3
-numpy        => 2.4.1
-scikit-learn => 1.8.0
-lightgbm     => 4.6.0
-matplotlib   => 3.10.8
-joblib       => 1.5.3
+pandas       >= 2.3.3
+numpy        >= 2.4.1
+scikit-learn >= 1.8.0
+lightgbm     >= 4.6.0
+matplotlib   >= 3.10.8
+joblib       >= 1.5.3
 ```
 
 ---
