@@ -60,7 +60,7 @@ The uplift curves show that response models consistently outperform uplift model
 
 - **RAM**: 8GB minimum
 - **CPU**: Any modern processor (no GPU required)
-- **Storage**: ~100MB for data, notebooks, and saved models
+- **Storage**: ~500MB for data, notebooks, and saved models
 - **Note**: Hyperparameter tuning in Notebook 03 may take 1-3 hours depending on processor speed
 
 ### Software
