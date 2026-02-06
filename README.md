@@ -91,8 +91,8 @@ joblib       => 1.5.3
 
 1. **Clone the repository**
 ```bash
-   git clone git@gitlab.com:wgu-gitlab-environment/student-repos/jlloyd52/d683-advanced-ai-and-ml.git
-   cd d683-advanced-ai-and-ml.git
+   git clone git@github.com:zach-lloyd/uplift_marketing_optimization.git
+   cd uplift_marketing_optimization.git
 ```
 
 2. **Create a virtual environment (recommended)**
@@ -140,16 +140,20 @@ This dataset contains 64,000 customers from a randomized email marketing experim
 
 ## References
 
+- Alves, M. (2022). *21 - Meta Learners*. https://matheusfacure.github.io/python-causality-handbook/21-Meta-Learners.html#:~:text=might%20work%20better.-,Key%20Ideas,entire%20chapter%20dedicated%20to%20it.
+
 - Hillstrom, K. (2008). *Kevin Hillstrom: MineThatData.* MineThatData. https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html.
+
+- Kunzel, S., et. al. (2019). *Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning*. https://arxiv.org/pdf/1706.03461.
+
+- Nyberg, O. (2023). *Exploring uplift modeling with high class imbalance*. Data Mining and Knowledge Discovery. https://link.springer.com/article/10.1007/s10618-023-00917-9.
+
+- Proppe, D. (2017). *Uplift modelling is hard — but worth it*. Medium. https://medium.com/touchpoints-ai/uplift-modelling-is-hard-but-worth-it-37a9e9dc5015.
 
 - Saha, S. (2025). *XGBoost vs LightGBM: How Are They Different*. Neptune Labs. https://neptune.ai/blog/xgboost-vs-lightgbm#:~:text=Structural%20differences%20between%20XGBoost%20and,utilization%20of%20two%20novel%20techniques:.
 
 - Xu, Y. (2024). *How does LightGBM Handle Categorical Features with High Cardinality*. https://medium.com/@YanAIx/how-does-lightgbm-handle-categorical-features-with-high-cardinality-381fb06e7cc1.
 
-- Kunzel, S., et. al. (2019). *Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning*. https://arxiv.org/pdf/1706.03461.
 
-- Alves, M. (2022). *21 - Meta Learners*. https://matheusfacure.github.io/python-causality-handbook/21-Meta-Learners.html#:~:text=might%20work%20better.-,Key%20Ideas,entire%20chapter%20dedicated%20to%20it.
 
-- Proppe, D. (2017). *Uplift modelling is hard — but worth it*. Medium. https://medium.com/touchpoints-ai/uplift-modelling-is-hard-but-worth-it-37a9e9dc5015.
 
-- Nyberg, O. (2023). *Exploring uplift modeling with high class imbalance*. Data Mining and Knowledge Discovery. https://link.springer.com/article/10.1007/s10618-023-00917-9.
