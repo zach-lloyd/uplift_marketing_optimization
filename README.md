@@ -92,7 +92,7 @@ joblib       >= 1.5.3
 1. **Clone the repository**
 ```bash
    git clone git@github.com:zach-lloyd/uplift_marketing_optimization.git
-   cd uplift_marketing_optimization.git
+   cd uplift_marketing_optimization
 ```
 
 2. **Create a virtual environment (recommended)**
